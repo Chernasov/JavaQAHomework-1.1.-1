@@ -5,13 +5,13 @@
 <07.08.2021> - <07.08.2021> было проведено позитивное функциональное тестирование 
 приложения Credit Card Number Validator.
 
-На тестирование затрачено: 2,2 часа
+На тестирование затрачено: 3 часа
 
 В результате тестирования выявлены следующие дефекты:
 * [Банковские карты American Express не проходят валидацию](https://github.com/Chernasov/JavaQAHomework-1.1.-1/issues/1#issue-963212547)
 * [Банковские карты JSB с количеством цифр в номере больше 16 не проходят валидацию](https://github.com/Chernasov/JavaQAHomework-1.1.-1/issues/2#issue-963213660)
 * [Банковские карты China Union Pay с количеством цифр в номере больше 16 не проходят валидацию](https://github.com/Chernasov/JavaQAHomework-1.1.-1/issues/3#issue-963214230)
-* [Банковские карты Maestro с количеством цифр в номере больше 16 не проходят валидацию](https://github.com/Chernasov/JavaQAHomework-1.1.-1/issues/4#issue-963214508)
+* [Банковские карты Maestro с количеством цифр в номере не равным 16 не проходят валидацию](https://github.com/Chernasov/JavaQAHomework-1.1.-1/issues/4#issue-963214508)
 
 ## Описание процесса тестирования
 
